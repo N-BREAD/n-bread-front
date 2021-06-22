@@ -19,7 +19,7 @@ function TopBar() {
             onClick={() => setThisPage("Main")}
           >
             로그아웃
-          </Link> 
+          </Link>
           <Link
             to="/mypage"
             className="top-bar__link"

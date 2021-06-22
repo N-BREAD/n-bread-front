@@ -19,7 +19,7 @@ function TopBar() {
             onClick={() => setThisPage("login")}
           >
             로그인
-          </Link> 
+          </Link>
           <Link
             to="/join"
             className="top-bar__link"

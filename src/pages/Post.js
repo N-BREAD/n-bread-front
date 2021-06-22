@@ -36,9 +36,9 @@ function Post() {
                     <input name="pay_result" type="text" value={result} onChange={e => setResult(+e.target.value)} placeholder="0" readOnly />
                 </div>
                 <div className="post__column">
-                <fieldset className="post__column__other-post">
-                    <button>공유하기</button>
-                </fieldset>
+                    <fieldset className="post__column__other-post">
+                        <button>공유하기</button>
+                    </fieldset>
                 </div>
             </div>
         </div>

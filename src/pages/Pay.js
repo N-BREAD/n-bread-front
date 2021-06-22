@@ -18,10 +18,10 @@ function Pay() {
                         <p className="pay__column-result">3</p>
                     </div>
                 </div>
-                    
-                
+
+
                 <hr />
-                
+
 
                 <div className="pay__column">
                     <div className="pay__column-list">

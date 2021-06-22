@@ -19,7 +19,7 @@ function Mypage() {
                         </Link>
                     </button>
                 </div>
-                
+
                 <div className="mypage__column">
                     <h1>계좌 관리</h1>
                     <div className="mypage__column-account"></div>
